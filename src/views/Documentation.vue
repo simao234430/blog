@@ -1,10 +1,4 @@
-
 <template>
-
-  <v-main>
-    <v-container class="px-4 text-center font-weight-light">
-  
-
   <v-container
     class="pa-4 pa-sm-6 pa-md-8"
     fluid
@@ -19,10 +13,6 @@
       </keep-alive>
     </v-responsive>
   </v-container>
-
-      </v-container>
-  </v-main>
-
 </template>
 
 <script>
@@ -31,22 +21,22 @@
   import { genMetaInfo } from '@/util/metadata'
   import { get, sync } from 'vuex-pathify'
   import { IN_BROWSER } from '@/util/globals'
-  // import { localeLookup } from '@/i18n/util'
+  import { localeLookup } from '@/i18n/util'
 
   async function load (route) {
     const { category, page } = route.params
     const isApi = 'api' === 'api'
-    // const locale = localeLookup(route.params.locale)
+    const locale = localeLookup(route.params.locale)
 
-    // const context = isApi
-    //   ? await import(
-    //     /* webpackChunkName: "api-[request]" */
-    //     `@/pages/${locale}.js`
-    //   )
-    //   : await import(
-    //     /* webpackChunkName: "documentation-[request]" */
-    //     `@/pages/${locale}.js`
-    //   )
+    const context = isApi
+      ? await import(
+        /* webpackChunkName: "api-[request]" */
+        `@/pages/${locale}.js`
+      )
+      : await import(
+        /* webpackChunkName: "documentation-[request]" */
+        `@/pages/${locale}.js`
+      )
 
     const path = ['.']
 
@@ -55,8 +45,7 @@
     path.push(page)
 
     try {
-      return require('@/pages/en/home.md')
-      // return context.default(`${path.join('/')}.md`)
+      return context.default(`${path.join('/')}.md`)
     } catch (err) {
       return {
         vue: {

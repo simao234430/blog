@@ -1,43 +1,48 @@
 <template>
-  <v-app>
- 
-
-    <home-footer />
-
- 
-  </v-app>
+  <v-container
+    class="fill-height px-0"
+    fluid
+    tag="section"
+  >
+    <v-row no-gutters>
+      <v-col cols="12">
+        <component :is="component" />
+      </v-col>
+    </v-row>
+  </v-container>
 </template>
 
 <script>
- 
-import HomeFooter from './Footer'
- 
-export default {
-        name: 'HomeLayout',
-  components: {
-      // eslint-disable-next-line vue/no-unused-components
-      HomeFooter
-  },
-  data() {
-    return {
+  // Extensions
+  import Documentation from './Documentation'
 
-    }
-  },
-  computed: {},
-  watch: {},
-  methods: {},
-  created() {},
-  mounted() {},
-  beforeCreate() {},
-  beforeMount() {},
-  beforeUpdate() {},
-  updated() {},
-  beforeDestroy() {},
-  destroyed() {},
-  activated() {}
-}
+  // Utilities
+  import { localeLookup } from '@/i18n/util'
+
+  async function load (route) {
+    const locale = localeLookup(route.params.locale)
+
+    return import(
+      /* webpackChunkName: "home-page-[request]" */
+      `@/pages/${locale}/home.md`
+    )
+  }
+
+  export default {
+    name: 'HomeView',
+
+    extends: Documentation,
+
+    async asyncData ({ route, store }) {
+      const md = await load(route)
+      store.state.pages.md = md
+    },
+  }
 </script>
-<style lang='scss' scoped>
-//@import url(); 引入公共css类
 
+<style lang="sass">
+  #material-design-framework
+    h1, h2, h3, h4, h5, h6
+      > a
+        display: none
 </style>
