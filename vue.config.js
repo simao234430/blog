@@ -6,7 +6,10 @@ const { md } = require('./build/markdown-it')
 const Mode = require('frontmatter-markdown-loader/mode')
  
 module.exports = {
-
+    devServer:{
+        port:80, // 启动端口
+        open:true  // 启动后是否自动打开网页
+    },
   chainWebpack: config => {
 //     config
 //     .plugin('pages-plugin')
