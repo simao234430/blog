@@ -11,9 +11,9 @@ module.exports = {
         open:true  // 启动后是否自动打开网页
     },
   chainWebpack: config => {
-//     config
-//     .plugin('pages-plugin')
-//     .use(path.resolve('./build/pages-plugin.js'))
+    config
+    .plugin('pages-plugin')
+    .use(path.resolve('./build/pages-plugin.js'))
 
 //   config.plugins.delete('html')
 //   config.plugins.delete('preload')
@@ -38,6 +38,7 @@ module.exports = {
 
     config.resolve.alias // 添加别名
       .set("@", resolve("src"))
+      .set("@docs", resolve("src/docs"))
   }
 
 };

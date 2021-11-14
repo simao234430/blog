@@ -12,8 +12,9 @@ import { createStore } from '@/store'
 
 import { sync } from 'vuex-router-sync'
 const store = createStore()
-const router = createRouter()
+
 const i18n = createI18n()
+const router = createRouter(vuetify, store, i18n)
 sync(store, router)
 registerPlugins(Vue)
 new Vue({

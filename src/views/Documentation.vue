@@ -25,22 +25,17 @@
 
   async function load (route) {
     const { category, page } = route.params
-    const isApi = 'api' === 'api'
+    // const isApi = category === 'api'
     const locale = localeLookup(route.params.locale)
 
-    const context = isApi
-      ? await import(
-        /* webpackChunkName: "api-[request]" */
-        `@/pages/${locale}.js`
-      )
-      : await import(
+    const context = await import(
         /* webpackChunkName: "documentation-[request]" */
         `@/pages/${locale}.js`
       )
 
     const path = ['.']
 
-    if (!isApi) path.push(category)
+     path.push(category)
 
     path.push(page)
 
