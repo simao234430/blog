@@ -11,6 +11,10 @@ module.exports = {
         open:true  // 启动后是否自动打开网页
     },
   chainWebpack: config => {
+    config.optimization.minimize(true)// 开启压缩js代码
+    config.optimization.splitChunks({ // 开启代码分割
+      chunks: 'all'
+    })
     config
     .plugin('pages-plugin')
     .use(path.resolve('./build/pages-plugin.js'))
@@ -34,7 +38,9 @@ module.exports = {
     }))
 
  
-
+    config
+    .plugin('webpack-bundle-analyzer')
+    .use(require('webpack-bundle-analyzer').BundleAnalyzerPlugin)
 
     config.resolve.alias // 添加别名
       .set("@", resolve("src"))
