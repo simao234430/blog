@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-sheet" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-sheet" section="sass" />
-
 <backmatter />

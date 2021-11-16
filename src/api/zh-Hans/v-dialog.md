@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-dialog" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-dialog" section="sass" />
-
 <backmatter />

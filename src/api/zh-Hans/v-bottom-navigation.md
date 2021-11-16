@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-bottom-navigation" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-bottom-navigation" section="sass" />
-
 <backmatter />

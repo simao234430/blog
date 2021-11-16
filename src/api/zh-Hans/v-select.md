@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-select" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-select" section="sass" />
-
 <backmatter />

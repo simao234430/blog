@@ -69,5 +69,5 @@ function generateRoutes (options = {}) {
 
   return routes
 }
-
+console.log(generateRoutes())
 module.exports = { generateRoutes }

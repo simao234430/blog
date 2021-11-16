@@ -7,9 +7,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "The **active-class** applied to children when they are activated.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "source": "base-slide-group",
       "description": {
         "en": "Forces the selected component to be centered",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -31,9 +27,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the dark theme variant to the component. You can find more information on the Material Design documentation for [dark themes](https://material.io/design/color/dark-theme.html).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -43,9 +37,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the light theme variant to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -55,9 +47,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Forces a value to always be selected (if available).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -70,9 +60,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Sets a maximum number of selections that can be made.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -84,9 +72,7 @@ module.exports = {
       "source": "mobile",
       "description": {
         "en": "Sets the designated mobile breakpoint for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -96,9 +82,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Allow multiple selections. The **value** prop must be an _array_.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -108,9 +92,7 @@ module.exports = {
       "source": "base-slide-group",
       "description": {
         "en": "The appended slot when arrows are shown",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -120,9 +102,7 @@ module.exports = {
       "source": "base-slide-group",
       "description": {
         "en": "The prepended slot when arrows are shown",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -135,9 +115,7 @@ module.exports = {
       "source": "base-slide-group",
       "description": {
         "en": "Change when the overflow arrow indicators are shown. By **default**, arrows *always* display on Desktop when the container is overflowing. When the container overflows on mobile, arrows are not shown by default. A **show-arrows** value of `true` allows these arrows to show on Mobile if the container overflowing. A value of `desktop` *always* displays arrows on Desktop while a value of `mobile` always displays arrows on Mobile. A value of `always` always displays arrows on Desktop *and* Mobile. Find more information on how to customize breakpoint thresholds on the [breakpoints page](/customizing/breakpoints).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -147,9 +125,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Specify a custom tag used on the root element.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -159,9 +135,7 @@ module.exports = {
       "source": "proxyable",
       "description": {
         "en": "The designated model value for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -176,27 +150,21 @@ module.exports = {
       "name": "default",
       "description": {
         "en": "The default Vue slot.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
       "name": "next",
       "description": {
         "en": "The next slot",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
       "name": "prev",
       "description": {
         "en": "The prev slot",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -206,9 +174,7 @@ module.exports = {
       "value": "any[] | any",
       "description": {
         "en": "Emitted when the component value is changed by user interaction",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -216,9 +182,7 @@ module.exports = {
       "value": "void",
       "description": {
         "en": "Emitted when the next is clicked",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -226,25 +190,12 @@ module.exports = {
       "value": "void",
       "description": {
         "en": "Emitted when the prev is clicked",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
   "functions": [],
   "name": "v-slide-group",
-  "sass": [
-    {
-      "name": "$slide-group-prev-basis",
-      "default": "52px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    }
-  ],
+  "sass": [],
   "component": true
 }

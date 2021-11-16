@@ -6,9 +6,7 @@ module.exports = {
       "type": "string",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "example": "(items: any[], search: string) => any[]",
       "description": {
         "en": "Function to filter items",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -32,9 +28,7 @@ module.exports = {
       "example": "(items: any[], groupBy: string[], groupDesc: boolean[]) => Record<string, any[]>",
       "description": {
         "en": "Function used to group items",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -45,9 +39,7 @@ module.exports = {
       "example": "(items: any[], sortBy: string[], sortDesc: boolean[], locale: string, customSorters?: Record<string, compareFn>) => any[]",
       "description": {
         "en": "Function used to sort items",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -57,9 +49,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the dark theme variant to the component. You can find more information on the Material Design documentation for [dark themes](https://material.io/design/color/dark-theme.html).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -69,9 +59,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "Disables filtering completely",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -81,9 +69,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "Disables pagination completely",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -93,9 +79,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "Disables sorting completely",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -105,9 +89,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "Array of expanded items. Can be used with `.sync` modifier",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -117,9 +99,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "See the [`v-data-footer`](/api/v-data-footer) API for more information",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -132,9 +112,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "Changes which item property should be used for grouping items. Currently only supports a single grouping in the format: `group` or `['group']`. When using an array, only the first element is considered. Can be used with `.sync` modifier",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -147,9 +125,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "Changes which direction grouping is done. Can be used with `.sync` modifier",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -159,9 +135,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "Hides default footer",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -171,9 +145,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "The property on each item that is used as a unique key",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -183,9 +155,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "The array of items to display",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -195,9 +165,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "Changes how many items per page should be visible. Can be used with `.sync` modifier. Setting this prop to `-1` will display all items on the page",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -207,9 +175,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the light theme variant to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -222,9 +188,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "If `true` and no items are provided, then a loading text will be shown",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -234,9 +198,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "Text shown when `loading` is true and no items are provided",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -246,9 +208,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "Sets the locale used for sorting. This is passed into [`Intl.Collator()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/Collator/Collator) in the default `customSort` function",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -261,9 +221,7 @@ module.exports = {
       "source": "mobile",
       "description": {
         "en": "Used to set when to toggle between regular table and mobile view",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -273,9 +231,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "If `true` then one can sort on multiple properties",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -285,9 +241,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "If `true` then one can not disable sorting, it will always switch between ascending and descending",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -297,9 +251,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "Text shown when no items are provided to the component",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -309,9 +261,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "Text shown when `search` prop is used and there are no results",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -331,9 +281,7 @@ module.exports = {
       },
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -343,9 +291,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -355,9 +301,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "Text input used to filter items",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -367,9 +311,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "The property on each item that is used to determine if it is selectable or not",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -379,9 +321,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "Used only when data is provided by a server. Should be set to the total amount of items available on server so that pagination works correctly",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -391,9 +331,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "Changes expansion mode to single expand",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -403,9 +341,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "Changes selection mode to single select",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -418,9 +354,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "Changes which item property (or properties) should be used for sort order. Can be used with `.sync` modifier",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -433,9 +367,7 @@ module.exports = {
       "source": "v-data",
       "description": {
         "en": "Changes which direction sorting is done. Can be used with `.sync` modifier",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -445,9 +377,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "Used for controlling selected rows",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -461,9 +391,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "The default slot. Use this to render your items",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -502,9 +430,7 @@ module.exports = {
       "source": "data-iterator",
       "description": {
         "en": "The default slot. Use this to render your items",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -539,9 +465,7 @@ module.exports = {
       "source": "data-iterator",
       "description": {
         "en": "Defines a footer below the items",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -554,9 +478,7 @@ module.exports = {
       "source": "data-iterator",
       "description": {
         "en": "This slot is forwarded to the default footer. See the [`v-data-footer`](/api/v-data-footer) API for more information",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -591,9 +513,7 @@ module.exports = {
       "source": "data-iterator",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -610,9 +530,7 @@ module.exports = {
       "source": "data-iterator",
       "description": {
         "en": "Slot for each item",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -620,9 +538,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "Defines content for when `loading` is true and no items are provided",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -630,9 +546,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "Defines content for when no items are provided",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -640,9 +554,7 @@ module.exports = {
       "source": "v-data-iterator",
       "description": {
         "en": "Defines content for when `search` is provided but no results are found",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -653,9 +565,7 @@ module.exports = {
       "value": "any[]",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -664,9 +574,7 @@ module.exports = {
       "value": "any[]",
       "description": {
         "en": "Array of selected items",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -675,9 +583,7 @@ module.exports = {
       "value": "{ item: any, value: boolean }",
       "description": {
         "en": "Event emitted when an item is expanded or closed",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -686,9 +592,7 @@ module.exports = {
       "value": "{ item: any, value: boolean }",
       "description": {
         "en": "Event emitted when an item is selected or deselected",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -697,9 +601,7 @@ module.exports = {
       "value": "number",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -715,9 +617,7 @@ module.exports = {
       },
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -726,9 +626,7 @@ module.exports = {
       "value": "{ items: any[], value: boolean }",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -737,9 +635,7 @@ module.exports = {
       "value": "any[]",
       "description": {
         "en": "The `.sync` event for `expanded` prop",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -748,9 +644,7 @@ module.exports = {
       "value": "string | string[]",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -759,9 +653,7 @@ module.exports = {
       "value": "boolean | boolean[]",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -770,9 +662,7 @@ module.exports = {
       "value": "number",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -781,9 +671,7 @@ module.exports = {
       "value": "boolean",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -792,9 +680,7 @@ module.exports = {
       "value": "boolean",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -812,9 +698,7 @@ module.exports = {
       },
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -823,9 +707,7 @@ module.exports = {
       "value": "number",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -834,9 +716,7 @@ module.exports = {
       "value": "string | string[]",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -845,115 +725,12 @@ module.exports = {
       "value": "boolean | boolean[]",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
   "functions": [],
   "name": "v-data-iterator",
-  "sass": [
-    {
-      "name": "$data-footer-font-size",
-      "default": "map-deep-get($headings, 'caption', 'size') !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$data-footer-icons-after-btn-margin-start",
-      "default": "7px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$data-footer-icons-before-btn-margin-end",
-      "default": "7px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$data-footer-padding",
-      "default": "0 8px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$data-footer-pagination-margin-end",
-      "default": "32px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$data-footer-pagination-margin-start",
-      "default": "24px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$data-footer-select-margin-end",
-      "default": "14px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$data-footer-select-select-margin-start",
-      "default": "34px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$data-footer-select-select-margin-y",
-      "default": "13px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$data-footer-select-selections-comma-font-size",
-      "default": "map-deep-get($headings, 'caption', 'size') !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    }
-  ],
+  "sass": [],
   "component": true
 }

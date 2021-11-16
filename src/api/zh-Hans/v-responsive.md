@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-responsive" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-responsive" section="sass" />
-
 <backmatter />

@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-toolbar" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-toolbar" section="sass" />
-
 <backmatter />

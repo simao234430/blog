@@ -4,17 +4,7 @@
     v-if="!error"
     class="d-flex"
   >
-    <app-ad
-      max-width="360"
-      outlined
-    >
-      <!-- <ad-script
-        id="carbonads"
-        script-id="_carbonads_js"
-        src="//cdn.carbonads.com/carbon.js?serve=CKYI5KQY&placement=vuetifyjscom"
-        @script:error="error = true"
-      /> -->
-    </app-ad>
+
   </div>
 
   <random-ad v-else />

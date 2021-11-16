@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-radio-group" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-radio-group" section="sass" />
-
 <backmatter />

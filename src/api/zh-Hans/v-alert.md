@@ -29,8 +29,4 @@ meta:
 
 <api-section name="v-alert" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-alert" section="sass" />
-
 <backmatter />

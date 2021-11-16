@@ -7,9 +7,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "The **active-class** applied to children when they are activated.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "source": "colorable",
       "description": {
         "en": "Applies specified color to the control - it can be the name of material color (for example `success` or `purple`) or css color (`#033` or `rgba(255, 0, 0, 0.5)`). You can find list of built in classes on the [colors page](/styles/colors#material-colors).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -31,9 +27,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the dark theme variant to the component. You can find more information on the Material Design documentation for [dark themes](https://material.io/design/color/dark-theme.html).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -43,9 +37,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the light theme variant to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -55,9 +47,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Forces a value to always be selected (if available).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -70,9 +60,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Sets a maximum number of selections that can be made.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -82,9 +70,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Allow multiple selections. The **value** prop must be an _array_.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -94,9 +80,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Specify a custom tag used on the root element.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -106,9 +90,7 @@ module.exports = {
       "source": "proxyable",
       "description": {
         "en": "Sets the active list-item inside the list-group",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -123,9 +105,7 @@ module.exports = {
       "name": "default",
       "description": {
         "en": "The default Vue slot.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -135,9 +115,7 @@ module.exports = {
       "value": "any[] | any",
       "description": {
         "en": "Emitted when the component value is changed by user interaction",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],

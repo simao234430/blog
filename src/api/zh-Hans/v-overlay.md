@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-overlay" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-overlay" section="sass" />
-
 <backmatter />

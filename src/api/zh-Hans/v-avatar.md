@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-avatar" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-avatar" section="sass" />
-
 <backmatter />

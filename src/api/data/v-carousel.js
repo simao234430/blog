@@ -7,9 +7,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "The **active-class** applied to children when they are activated.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "source": "v-window",
       "description": {
         "en": "Determines whether carousel is continuous",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -31,9 +27,7 @@ module.exports = {
       "source": "v-carousel",
       "description": {
         "en": "Determines if the carousel should cycle through images.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -43,9 +37,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the dark theme variant to the component. You can find more information on the Material Design documentation for [dark themes](https://material.io/design/color/dark-theme.html).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -55,9 +47,7 @@ module.exports = {
       "source": "v-carousel",
       "description": {
         "en": "Sets icon for carousel delimiter",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -70,9 +60,7 @@ module.exports = {
       "source": "v-carousel",
       "description": {
         "en": "Sets the height for the component",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -82,9 +70,7 @@ module.exports = {
       "source": "v-carousel",
       "description": {
         "en": "Hides the bottom delimiter background.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -94,9 +80,7 @@ module.exports = {
       "source": "v-carousel",
       "description": {
         "en": "Hides the carousel's bottom delimiters.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -109,9 +93,7 @@ module.exports = {
       "source": "v-carousel",
       "description": {
         "en": "The duration between image cycles. Requires the **cycle** prop.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -121,9 +103,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the light theme variant to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -133,9 +113,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Forces a value to always be selected (if available).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -148,9 +126,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Sets a maximum number of selections that can be made.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -160,9 +136,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Allow multiple selections. The **value** prop must be an _array_.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -175,9 +149,7 @@ module.exports = {
       "source": "v-window",
       "description": {
         "en": "The displayed icon for forcing pagination to the next item.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -190,9 +162,7 @@ module.exports = {
       "source": "v-window",
       "description": {
         "en": "The displayed icon for forcing pagination to the previous item.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -202,9 +172,7 @@ module.exports = {
       "source": "v-carousel",
       "description": {
         "en": "Displays a carousel progress bar. Requires the **cycle** prop and **interval**.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -214,9 +182,7 @@ module.exports = {
       "source": "v-carousel",
       "description": {
         "en": "Applies specified color to progress bar.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -226,9 +192,7 @@ module.exports = {
       "source": "v-window",
       "description": {
         "en": "Reverse the normal transition direction.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -238,9 +202,7 @@ module.exports = {
       "source": "v-window",
       "description": {
         "en": "Displays arrows for next/previous navigation.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -250,9 +212,7 @@ module.exports = {
       "source": "v-window",
       "description": {
         "en": "Displays navigation arrows only when the carousel is hovered over.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -262,9 +222,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Specify a custom tag used on the root element.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -274,9 +232,7 @@ module.exports = {
       "source": "v-window",
       "description": {
         "en": "Provide a custom **left** and **right** function when swiped left or right.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -286,9 +242,7 @@ module.exports = {
       "source": "v-window",
       "description": {
         "en": "Disable touch support.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -298,9 +252,7 @@ module.exports = {
       "source": "proxyable",
       "description": {
         "en": "The designated model value for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -310,9 +262,7 @@ module.exports = {
       "source": "v-window",
       "description": {
         "en": "Uses a vertical transition when changing windows.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -322,9 +272,7 @@ module.exports = {
       "source": "v-carousel",
       "description": {
         "en": "Displays carousel delimiters vertically.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -337,9 +285,7 @@ module.exports = {
       "name": "default",
       "description": {
         "en": "The default Vue slot.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -351,9 +297,7 @@ module.exports = {
       "source": "v-window",
       "description": {
         "en": "Slot displaying the arrow switching to the next item",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -365,9 +309,7 @@ module.exports = {
       "source": "v-window",
       "description": {
         "en": "Slot displaying the arrow switching to the previous item",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -377,75 +319,12 @@ module.exports = {
       "value": "number",
       "description": {
         "en": "Emitted when the component value is changed by user interaction",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
   "functions": [],
   "name": "v-carousel",
-  "sass": [
-    {
-      "name": "$carousel-controls-bg",
-      "default": "rgba(0, 0, 0, .3) !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$carousel-controls-size",
-      "default": "50px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$carousel-dot-margin",
-      "default": "0 8px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$carousel-dot-inactive-opacity",
-      "default": ".5 !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$carousel-dot-active-opacity",
-      "default": "1 !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$carousel-dot-hover-opacity",
-      "default": ".8 !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    }
-  ],
+  "sass": [],
   "component": true
 }

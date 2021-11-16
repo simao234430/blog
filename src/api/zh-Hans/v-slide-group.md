@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-slide-group" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-slide-group" section="sass" />
-
 <backmatter />

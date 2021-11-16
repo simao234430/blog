@@ -29,8 +29,4 @@ meta:
 
 <api-section name="v-treeview" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-treeview" section="sass" />
-
 <backmatter />

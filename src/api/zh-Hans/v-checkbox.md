@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-checkbox" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-checkbox" section="sass" />
-
 <backmatter />

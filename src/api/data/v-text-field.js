@@ -7,9 +7,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Appends an icon to the component, uses the same syntax as `v-icon`",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Appends an icon to the outside the component's input, uses same syntax as `v-icon`",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -31,9 +27,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Enables autofocus",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -43,9 +37,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Changes the background-color of the input",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -55,9 +47,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Applied when using **clearable** and the input is dirty",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -67,9 +57,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Add input clear functionality, default icon is Material Design Icons **mdi-clear**",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -79,9 +67,7 @@ module.exports = {
       "source": "colorable",
       "description": {
         "en": "Applies specified color to the control - it can be the name of material color (for example `success` or `purple`) or css color (`#033` or `rgba(255, 0, 0, 0.5)`). You can find list of built in classes on the [colors page](/styles/colors#material-colors).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -95,9 +81,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Creates counter for input length; if no number is specified, it defaults to 25. Does not apply any validation.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -107,9 +91,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -119,9 +101,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the dark theme variant to the component. This will default the components color to _white_ unless you've configured your [application theme](/customization/theme) to **dark** or if you are using the **color** prop on the component. You can find more information on the Material Design documentation for [dark themes](https://material.io/design/color/dark-theme.html).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -131,9 +111,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Reduces the input height",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -143,9 +121,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Disable the input",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -155,9 +131,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Puts the input in a manual error state",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -170,9 +144,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "The total number of errors that should display at once",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -185,9 +157,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Puts the input in an error state and passes through custom error messages. Will be combined with any validations that occur from the **rules** prop. This field will not trigger validation",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -197,9 +167,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Applies the alternate filled input style",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -209,9 +177,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Removes elevation (shadow) added to element when using the **solo** or **solo-inverted** props",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -221,9 +187,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Designates input type as full-width",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -236,9 +200,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Sets the height of the input",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -251,9 +213,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Hides hint and validation errors. When set to `auto` messages will be rendered only if there's a message (hint, error message, counter value etc) to display",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -263,9 +223,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Hint text",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -275,9 +233,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Sets the DOM id on the component",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -286,9 +242,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Sets input label",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -298,9 +252,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the light theme variant to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -313,9 +265,7 @@ module.exports = {
       "source": "loadable",
       "description": {
         "en": "Specifies the height of the loader",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -328,9 +278,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Displays linear progress bar. Can either be a String which specifies which color is applied to the progress bar (any material color or theme color - **primary**, **secondary**, **success**, **info**, **warning**, **error**) or a Boolean which uses the component **color** (set by color prop - if it's supported by the component) or the primary color",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -343,9 +291,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Displays a list of messages or message if using a string",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -355,9 +301,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Applies the outlined style to the input",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -367,9 +311,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Forces hint to always be visible",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -379,9 +321,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Forces placeholder to always be visible",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -391,9 +331,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Sets the input’s placeholder text",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -403,9 +341,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Displays prefix text",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -415,9 +351,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Prepends an icon to the component, uses the same syntax as `v-icon`",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -427,9 +361,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Prepends an icon inside the component's input, uses the same syntax as `v-icon`",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -439,9 +371,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Puts input in readonly state",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -451,9 +381,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Reverses the input orientation",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -463,9 +391,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Adds a border radius to the input",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -475,9 +401,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Accepts a mixed array of types `function`, `boolean` and `string`. Functions pass an input value as an argument and must return either `true` / `false` or a `string` containing an error message. The input field will enter an error state if a function returns (or any value in the array contains) `false` or is a `string`",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -487,9 +411,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Round if `outlined` and increase `border-radius` if `filled`. Must be used with either `outlined` or `filled`",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -499,9 +421,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Label does not move on focus/dirty",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -511,9 +431,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Changes the style of the input",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -523,9 +441,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Reduces element opacity until focused",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -535,9 +451,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Puts the input in a manual success state",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -550,9 +464,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Puts the input in a success state and passes through custom success messages.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -562,9 +474,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Displays suffix text",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -574,9 +484,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Sets input type",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -586,9 +494,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Delays validation until blur event",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -597,9 +503,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "The input's value",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -618,9 +522,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Adds an item inside the input and after input content",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -628,9 +530,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Adds an item outside the input and after input content",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -646,9 +546,7 @@ module.exports = {
       },
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -656,9 +554,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Replaces the default label",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -670,9 +566,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -680,9 +574,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Adds an item outside the input and before input content",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -690,9 +582,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Adds an item inside the input and before input content",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -700,9 +590,7 @@ module.exports = {
       "source": "v-text-field",
       "description": {
         "en": "Slot for custom progress linear (displayed when **loading** prop is not equal to Boolean False)",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -713,9 +601,7 @@ module.exports = {
       "value": "Event",
       "description": {
         "en": "Emitted when the input is blurred",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -724,9 +610,7 @@ module.exports = {
       "value": "any",
       "description": {
         "en": "Emitted when the input is changed by user interaction",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -735,9 +619,7 @@ module.exports = {
       "value": "MouseEvent",
       "description": {
         "en": "Emitted when input is clicked",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -746,9 +628,7 @@ module.exports = {
       "value": "Event",
       "description": {
         "en": "Emitted when appended icon is clicked",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -757,9 +637,7 @@ module.exports = {
       "value": "Event",
       "description": {
         "en": "Emitted when appended outer icon is clicked",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -768,9 +646,7 @@ module.exports = {
       "value": "Event",
       "description": {
         "en": "Emitted when clearable icon clicked",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -779,9 +655,7 @@ module.exports = {
       "value": "Event",
       "description": {
         "en": "Emitted when prepended icon is clicked",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -790,9 +664,7 @@ module.exports = {
       "value": "Event",
       "description": {
         "en": "Emitted when prepended inner icon is clicked",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -801,9 +673,7 @@ module.exports = {
       "value": "Event",
       "description": {
         "en": "Emitted when component is focused",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -812,9 +682,7 @@ module.exports = {
       "value": "any",
       "description": {
         "en": "The updated bound model",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -823,9 +691,7 @@ module.exports = {
       "value": "KeyboardEvent",
       "description": {
         "en": "Emitted when **any** key is pressed",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -834,9 +700,7 @@ module.exports = {
       "value": "MouseEvent",
       "description": {
         "en": "Emitted when click is pressed",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -845,9 +709,7 @@ module.exports = {
       "value": "MouseEvent",
       "description": {
         "en": "Emitted when click is released",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -856,505 +718,12 @@ module.exports = {
       "value": "boolean",
       "description": {
         "en": "The `error.sync` event",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
   "functions": [],
   "name": "v-text-field",
-  "sass": [
-    {
-      "name": "$text-field-border-radius",
-      "default": "$border-radius-root !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-line-height",
-      "default": "20px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-padding",
-      "default": "8px 0 8px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-dense-padding",
-      "default": "4px 0 2px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-append-prepend-margin",
-      "default": "4px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-dense-append-prepend-margin",
-      "default": "0px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-dense-icon-append-prepend-margin-top",
-      "default": "8px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-filled-full-width-outlined-slot-min-height",
-      "default": "56px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-filled-full-width-outlined-dense-slot-min-height",
-      "default": "52px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-filled-full-width-outlined-single-line-slot-min-height",
-      "default": "40px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-filled-border-radius",
-      "default": "$text-field-border-radius $text-field-border-radius 0 0 !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-counter-margin",
-      "default": "8px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-label-top",
-      "default": "6px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-label-active-transform",
-      "default": "translateY(-18px) scale(.75) !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-details-min-height",
-      "default": "14px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-filled-full-width-label-top",
-      "default": "18px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-filled-full-width-label-active-transform",
-      "default": "translateY(-6px) scale(.75) !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-dense-label-top",
-      "default": "17px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-dense-label-active-transform",
-      "default": "translateY(-10px) scale(.75) !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-single-line-label-top",
-      "default": "11px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-filled-margin-top",
-      "default": "22px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-enclosed-prepend-append-margin-top",
-      "default": "17px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-dense-prepend-append-margin-top",
-      "default": "14px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-single-line-prepend-append-margin-top",
-      "default": "9px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-outlined-prepend-append-margin-top",
-      "default": "8px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-enclosed-details-padding",
-      "default": "0 12px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-details-padding-top",
-      "default": "0px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-details-margin-bottom",
-      "default": "8px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-outlined-margin-bottom",
-      "default": "16px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-outlined-label-position-x",
-      "default": "18px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-outlined-label-position-y",
-      "default": "-24px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-outlined-dense-label-position-x",
-      "default": "10px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-outlined-dense-label-position-y",
-      "default": "-16px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-prefix-max-height",
-      "default": "32px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-outlined-append-prepend-outer-margin-top",
-      "default": "18px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-outlined-fieldset-top",
-      "default": "-5px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-outlined-fieldset-border-width",
-      "default": "1px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-outlined-fieldset-padding",
-      "default": "8px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-outlined-legend-line-height",
-      "default": "11px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-rounded-legend-margin",
-      "default": "12px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-rounded-border-radius",
-      "default": "28px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-shaped-border-radius",
-      "default": "16px 16px 0 0 !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-outlined-fieldset-border",
-      "default": "2px solid currentColor !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-outlined-rounded-slot-padding",
-      "default": "0 24px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-solo-label-top",
-      "default": "calc(50% - 9px) !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-solo-control-min-height",
-      "default": "48px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-solo-dense-control-min-height",
-      "default": "38px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-solo-outer-margin-top",
-      "default": "12px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$text-field-solo-dense-outer-margin-top",
-      "default": "7px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    }
-  ],
+  "sass": [],
   "component": true
 }

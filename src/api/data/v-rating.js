@@ -7,9 +7,7 @@ module.exports = {
       "source": "v-rating",
       "description": {
         "en": "The color used empty icons",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "source": "v-rating",
       "description": {
         "en": "Allows for the component to be cleared. Triggers when the icon containing the current value is clicked.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -34,9 +30,7 @@ module.exports = {
       "source": "delayable",
       "description": {
         "en": "Milliseconds to wait before closing component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -46,9 +40,7 @@ module.exports = {
       "source": "colorable",
       "description": {
         "en": "Applies specified color to the control - it can be the name of material color (for example `success` or `purple`) or css color (`#033` or `rgba(255, 0, 0, 0.5)`). You can find list of built in classes on the [colors page](/styles/colors#material-colors).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -58,9 +50,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the dark theme variant to the component. You can find more information on the Material Design documentation for [dark themes](https://material.io/design/color/dark-theme.html).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -70,9 +60,7 @@ module.exports = {
       "source": "v-rating",
       "description": {
         "en": "Icons have a smaller size",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -82,9 +70,7 @@ module.exports = {
       "source": "v-rating",
       "description": {
         "en": "The icon displayed when empty",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -94,9 +80,7 @@ module.exports = {
       "source": "v-rating",
       "description": {
         "en": "The icon displayed when full",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -106,9 +90,7 @@ module.exports = {
       "source": "v-rating",
       "description": {
         "en": "The icon displayed when half (requires **half-increments** prop)",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -118,9 +100,7 @@ module.exports = {
       "source": "v-rating",
       "description": {
         "en": "Allows the selection of half increments",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -130,9 +110,7 @@ module.exports = {
       "source": "v-rating",
       "description": {
         "en": "Provides visual feedback when hovering over icons",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -142,9 +120,7 @@ module.exports = {
       "source": "v-rating",
       "description": {
         "en": "The **aria-label** used for icons",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -154,9 +130,7 @@ module.exports = {
       "source": "sizeable",
       "description": {
         "en": "Makes the component large.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -169,9 +143,7 @@ module.exports = {
       "source": "v-rating",
       "description": {
         "en": "The amount of ratings to show",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -181,9 +153,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the light theme variant to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -196,9 +166,7 @@ module.exports = {
       "source": "delayable",
       "description": {
         "en": "Milliseconds to wait before opening component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -208,9 +176,7 @@ module.exports = {
       "source": "v-rating",
       "description": {
         "en": "Removes all hover effects and pointer events",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -223,9 +189,7 @@ module.exports = {
       "source": "rippleable",
       "description": {
         "en": "Applies the [v-ripple](/directives/ripple) directive.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -238,9 +202,7 @@ module.exports = {
       "source": "v-rating",
       "description": {
         "en": "Sets the height and width of the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -250,9 +212,7 @@ module.exports = {
       "source": "sizeable",
       "description": {
         "en": "Makes the component small.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -262,9 +222,7 @@ module.exports = {
       "source": "v-rating",
       "description": {
         "en": "The rating value",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -274,9 +232,7 @@ module.exports = {
       "source": "sizeable",
       "description": {
         "en": "Makes the component extra large.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -286,9 +242,7 @@ module.exports = {
       "source": "sizeable",
       "description": {
         "en": "Makes the component extra small.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -304,9 +258,7 @@ module.exports = {
       "name": "default",
       "description": {
         "en": "The default Vue slot.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -322,9 +274,7 @@ module.exports = {
       },
       "description": {
         "en": "The slot for rendered items",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -334,45 +284,12 @@ module.exports = {
       "value": "Number",
       "description": {
         "en": "Emits the rating number when this value changes",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
   "functions": [],
   "name": "v-rating",
-  "sass": [
-    {
-      "name": "$rating-padding",
-      "default": "0.5rem !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$rating-border-radius",
-      "default": "50% !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$rating-dense-padding",
-      "default": "0.1rem !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    }
-  ],
+  "sass": [],
   "component": true
 }

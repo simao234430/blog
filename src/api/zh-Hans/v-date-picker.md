@@ -26,8 +26,4 @@ meta:
 
 <api-section name="v-date-picker" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-date-picker" section="sass" />
-
 <backmatter />

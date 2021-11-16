@@ -6,9 +6,7 @@ module.exports = {
       "source": "groupable",
       "description": {
         "en": "Configure the active CSS class applied when the link is active. You can find more information about the [**active-class** prop](https://router.vuejs.org/api/#active-class) on the vue-router documentation.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -18,9 +16,7 @@ module.exports = {
       "source": "colorable",
       "description": {
         "en": "Applies specified color to the control - it can be the name of material color (for example `success` or `purple`) or css color (`#033` or `rgba(255, 0, 0, 0.5)`). You can find list of built in classes on the [colors page](/styles/colors#material-colors).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -30,9 +26,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the dark theme variant to the component. You can find more information on the Material Design documentation for [dark themes](https://material.io/design/color/dark-theme.html).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -42,9 +36,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Removes the ability to click or target the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -54,9 +46,7 @@ module.exports = {
       "source": "v-radio",
       "description": {
         "en": "Sets the DOM id on the component",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -65,9 +55,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Sets input label",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -77,9 +65,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the light theme variant to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -89,9 +75,7 @@ module.exports = {
       "source": "v-radio",
       "description": {
         "en": "Sets the component's name attribute",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -101,9 +85,7 @@ module.exports = {
       "source": "v-radio",
       "description": {
         "en": "The icon used when inactive",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -113,9 +95,7 @@ module.exports = {
       "source": "v-radio",
       "description": {
         "en": "The icon used when active",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -125,9 +105,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Puts input in readonly state",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -140,9 +118,7 @@ module.exports = {
       "source": "rippleable",
       "description": {
         "en": "Applies the [v-ripple](/directives/ripple) directive.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -151,9 +127,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "The value used when the component is selected in a group. If not provided, the index will be used.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -169,9 +143,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "The default Vue slot.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -179,9 +151,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Replaces the default label",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -193,9 +163,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -205,9 +173,7 @@ module.exports = {
       "value": "any",
       "description": {
         "en": "Emitted when the input is changed by user interaction",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -215,9 +181,7 @@ module.exports = {
       "value": "MouseEvent",
       "description": {
         "en": "Emitted when input is clicked. **Note:** the **change** event should be used instead of **click** when monitoring state change",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -226,9 +190,7 @@ module.exports = {
       "value": "Event",
       "description": {
         "en": "Emitted when appended icon is clicked",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -237,9 +199,7 @@ module.exports = {
       "value": "Event",
       "description": {
         "en": "Emitted when prepended icon is clicked",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -248,9 +208,7 @@ module.exports = {
       "value": "MouseEvent",
       "description": {
         "en": "Emitted when click is pressed",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -259,9 +217,7 @@ module.exports = {
       "value": "MouseEvent",
       "description": {
         "en": "Emitted when click is released",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -270,9 +226,7 @@ module.exports = {
       "value": "boolean",
       "description": {
         "en": "The `error.sync` event",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],

@@ -12,7 +12,9 @@ import { createStore } from '@/store'
 
 import { sync } from 'vuex-router-sync'
 const store = createStore()
-
+// const { generateRoutes } = require('../build/generate-routes')
+// const extra_routes = generateRoutes({ excludeDemos: true })
+// console.log(extra_routes)
 const i18n = createI18n()
 const router = createRouter(vuetify, store, i18n)
 sync(store, router)

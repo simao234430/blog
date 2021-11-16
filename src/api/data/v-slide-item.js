@@ -6,9 +6,7 @@ module.exports = {
       "source": "groupable",
       "description": {
         "en": "Configure the active CSS class applied when the link is active. You can find more information about the [**active-class** prop](https://router.vuejs.org/api/#active-class) on the vue-router documentation.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -18,9 +16,7 @@ module.exports = {
       "source": "groupable",
       "description": {
         "en": "Removes the ability to click or target the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -30,9 +26,7 @@ module.exports = {
       "source": "groupable",
       "description": {
         "en": "The value used when the component is selected in a group. If not provided, the index will be used.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -44,9 +38,7 @@ module.exports = {
       "name": "default",
       "description": {
         "en": "The default Vue slot.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],

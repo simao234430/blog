@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-subheader" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-subheader" section="sass" />
-
 <backmatter />

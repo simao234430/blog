@@ -27,8 +27,4 @@ meta:
 
 <api-section name="v-btn" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-btn" section="sass" />
-
 <backmatter />

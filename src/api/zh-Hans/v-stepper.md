@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-stepper" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-stepper" section="sass" />
-
 <backmatter />

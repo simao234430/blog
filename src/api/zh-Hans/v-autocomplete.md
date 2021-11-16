@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-autocomplete" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-autocomplete" section="sass" />
-
 <backmatter />

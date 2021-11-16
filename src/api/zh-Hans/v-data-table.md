@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-data-table" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-data-table" section="sass" />
-
 <backmatter />

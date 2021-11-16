@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-tooltip" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-tooltip" section="sass" />
-
 <backmatter />

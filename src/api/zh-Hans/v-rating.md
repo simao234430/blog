@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-rating" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-rating" section="sass" />
-
 <backmatter />

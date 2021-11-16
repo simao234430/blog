@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-progress-linear" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-progress-linear" section="sass" />
-
 <backmatter />

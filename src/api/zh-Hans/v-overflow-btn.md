@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-overflow-btn" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-overflow-btn" section="sass" />
-
 <backmatter />

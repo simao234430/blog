@@ -77,26 +77,26 @@
 
     methods: {
       async init () {
-        // this.getPages()
+        this.getPages()
         this.genNav()
         // this.$load(['https://cdn.jsdelivr.net/npm/@mdi/font@6.x/css/materialdesignicons.min.css'])
       },
-      // async getPages () {
-      //   // const locale = localeLookup(this.locale)
-      //   const [ { default: pages }] = await Promise.all([
-      //     // import(
-      //     //   /* webpackChunkName: "api-pages-[request]" */
-      //     //   `@/api/${locale}/pages.json`
-      //     // ),
-      //     // import(
-      //     //   /* webpackChunkName: "locale-pages-[request]" */
-      //     //   `@docs/en/pages`
-      //     // )
-      //   ])
+      async getPages () {
+        // const locale = localeLookup(this.locale)
+        const [ { default: pages }] = await Promise.all([
+          import(
+            /* webpackChunkName: "api-pages-[request]" */
+            `@/api/en/pages.json`
+          ),
+          // import(
+          //   /* webpackChunkName: "locale-pages-[request]" */
+          //   `@docs/en/pages`
+          // )
+        ])
 
-      //   this.pages = { ...pages, }
-      //   this.genNav()
-      // },
+        this.pages = { ...pages, }
+        this.genNav()
+      },
       findItems (group) {
         const path = `/${this.locale}/${group}/`
 

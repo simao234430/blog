@@ -7,9 +7,7 @@ module.exports = {
       "source": "v-edit-dialog",
       "description": {
         "en": "Sets the default text for the cancel button when using the **large** prop",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the dark theme variant to the component. You can find more information on the Material Design documentation for [dark themes](https://material.io/design/color/dark-theme.html).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -31,9 +27,7 @@ module.exports = {
       "source": "v-edit-dialog",
       "description": {
         "en": "Will force the components content to render on mounted. This is useful if you have content that will not be rendered in the DOM that you want crawled for SEO.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -43,9 +37,7 @@ module.exports = {
       "source": "v-edit-dialog",
       "description": {
         "en": "Attaches a submit and cancel button to the dialog",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -55,9 +47,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the light theme variant to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -67,9 +57,7 @@ module.exports = {
       "source": "v-edit-dialog",
       "description": {
         "en": "Clicking outside or pressing **esc** key will not dismiss the dialog",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -79,9 +67,7 @@ module.exports = {
       "source": "returnable",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -91,9 +77,7 @@ module.exports = {
       "source": "v-edit-dialog",
       "description": {
         "en": "Sets the default text for the save button when using the **large** prop",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -103,9 +87,7 @@ module.exports = {
       "source": "v-edit-dialog",
       "description": {
         "en": "Sets the component transition. Can be one of the [built in transitions](/styles/transitions) or one your own.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -118,18 +100,14 @@ module.exports = {
       "name": "default",
       "description": {
         "en": "The default Vue slot.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
       "name": "input",
       "description": {
         "en": "Slot used to denote input component for v-edit-dialog",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -139,9 +117,7 @@ module.exports = {
       "value": "void",
       "description": {
         "en": "Emits when editing is canceled",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -149,9 +125,7 @@ module.exports = {
       "value": "void",
       "description": {
         "en": "Emits when edit-dialog close button is pressed",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -159,9 +133,7 @@ module.exports = {
       "value": "void",
       "description": {
         "en": "Emits when editing is opened",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -169,9 +141,7 @@ module.exports = {
       "value": "void",
       "description": {
         "en": "Emits when edit-dialog save button is pressed",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],

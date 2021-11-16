@@ -7,9 +7,7 @@ module.exports = {
       "source": "v-data-footer",
       "description": {
         "en": "Disables items-per-page dropdown",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "source": "v-data-footer",
       "description": {
         "en": "Disables pagination buttons",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -31,9 +27,7 @@ module.exports = {
       "source": "v-data-footer",
       "description": {
         "en": "First icon",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -43,9 +37,7 @@ module.exports = {
       "source": "v-data-footer",
       "description": {
         "en": "Text for 'All' option in items-per-page dropdown",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -60,9 +52,7 @@ module.exports = {
       "source": "v-data-footer",
       "description": {
         "en": "Array of options to show in the items-per-page dropdown",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -72,9 +62,7 @@ module.exports = {
       "source": "v-data-footer",
       "description": {
         "en": "Text for items-per-page dropdown",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -84,9 +72,7 @@ module.exports = {
       "source": "v-data-footer",
       "description": {
         "en": "Last icon",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -96,9 +82,7 @@ module.exports = {
       "source": "v-data-footer",
       "description": {
         "en": "Next icon",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -118,9 +102,7 @@ module.exports = {
       },
       "description": {
         "en": "DataOptions",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -130,9 +112,7 @@ module.exports = {
       "source": "v-data-footer",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -150,9 +130,7 @@ module.exports = {
       },
       "description": {
         "en": "DataPagination",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -162,9 +140,7 @@ module.exports = {
       "source": "v-data-footer",
       "description": {
         "en": "Previous icon",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -174,9 +150,7 @@ module.exports = {
       "source": "v-data-footer",
       "description": {
         "en": "Show current page number between prev/next icons",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -186,9 +160,7 @@ module.exports = {
       "source": "v-data-footer",
       "description": {
         "en": "Show first/last icons",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -203,18 +175,14 @@ module.exports = {
       },
       "description": {
         "en": "Defines content for the items-per-page text",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
       "name": "prepend",
       "description": {
         "en": "Adds content to the empty space in the footer",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -233,9 +201,7 @@ module.exports = {
       },
       "description": {
         "en": "The `.sync` event for `options` prop",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],

@@ -7,9 +7,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Configure the active CSS class applied when the link is active. You can find more information about the [**active-class** prop](https://router.vuejs.org/api/#active-class) on the vue-router documentation.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the dark theme variant to the component. You can find more information on the Material Design documentation for [dark themes](https://material.io/design/color/dark-theme.html).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -31,9 +27,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the light theme variant to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -43,9 +37,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Forces a value to always be selected (if available).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -58,9 +50,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Sets a maximum number of selections that can be made.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -70,9 +60,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Allow multiple selections. The **value** prop must be an _array_.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -82,9 +70,7 @@ module.exports = {
       "source": "base-item-group",
       "description": {
         "en": "Specify a custom tag used on the root element.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -94,9 +80,7 @@ module.exports = {
       "source": "proxyable",
       "description": {
         "en": "The designated model value for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -111,25 +95,12 @@ module.exports = {
       "value": "any[] | any",
       "description": {
         "en": "Emitted when the component value is changed by user interaction",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
   "functions": [],
   "name": "v-item-group",
-  "sass": [
-    {
-      "name": "$item-group-transition",
-      "default": "$primary-transition !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    }
-  ],
+  "sass": [],
   "component": true
 }

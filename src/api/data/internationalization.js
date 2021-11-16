@@ -6,9 +6,7 @@ module.exports = {
       "type": "Record<string, VuetifyLocale>",
       "description": {
         "en": "Available locales",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -17,9 +15,7 @@ module.exports = {
       "type": "string",
       "description": {
         "en": "Current locale",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -30,9 +26,7 @@ module.exports = {
       "type": "Function",
       "description": {
         "en": "Translation function used internally",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],

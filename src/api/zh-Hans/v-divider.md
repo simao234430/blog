@@ -17,8 +17,4 @@ meta:
 
 <api-section name="v-divider" section="props" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-divider" section="sass" />
-
 <backmatter />

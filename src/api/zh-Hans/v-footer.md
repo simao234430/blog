@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-footer" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-footer" section="sass" />
-
 <backmatter />

@@ -7,9 +7,7 @@ module.exports = {
       "source": "activatable",
       "description": {
         "en": "Designate a custom activator when the `activator` slot is not used. String can be any valid querySelector and Object can be any valid Node.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "source": "detachable",
       "description": {
         "en": "Specifies which DOM element that this component should detach to. String can be any valid querySelector and Object can be any valid Node. This will attach to the root `v-app` component by default.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -34,9 +30,7 @@ module.exports = {
       "source": "delayable",
       "description": {
         "en": "Milliseconds to wait before closing component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -46,9 +40,7 @@ module.exports = {
       "source": "detachable",
       "description": {
         "en": "Applies a custom class to the detached element. This is useful because the content is moved to the beginning of the `v-app` component (unless the **attach** prop is provided) and is not targetable by classes passed directly on the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -58,9 +50,7 @@ module.exports = {
       "source": "v-dialog",
       "description": {
         "en": "Applies the dark theme variant to the component. This will default the components color to _white_ unless you've configured your [application theme](/customization/theme) to **dark** or if you are using the **color** prop on the component. You can find more information on the Material Design documentation for [dark themes](https://material.io/design/color/dark-theme.html).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -70,9 +60,7 @@ module.exports = {
       "source": "activatable",
       "description": {
         "en": "Disables the ability to open the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -82,9 +70,7 @@ module.exports = {
       "source": "bootable",
       "description": {
         "en": "Will force the components content to render on mounted. This is useful if you have content that will not be rendered in the DOM that you want crawled for SEO.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -94,9 +80,7 @@ module.exports = {
       "source": "v-dialog",
       "description": {
         "en": "Changes layout for fullscreen display.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -106,9 +90,7 @@ module.exports = {
       "source": "overlayable",
       "description": {
         "en": "Hides the display of the overlay.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -118,9 +100,7 @@ module.exports = {
       "source": "v-bottom-sheet",
       "description": {
         "en": "Reduces the sheet content maximum width to 70%.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -130,9 +110,7 @@ module.exports = {
       "source": "activatable",
       "description": {
         "en": "Detaches the menu content inside of the component as opposed to the document.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -142,9 +120,7 @@ module.exports = {
       "source": "v-dialog",
       "description": {
         "en": "Applies the light theme variant to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -157,9 +133,7 @@ module.exports = {
       "source": "v-dialog",
       "description": {
         "en": "Sets the maximum width for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -169,9 +143,7 @@ module.exports = {
       "source": "v-dialog",
       "description": {
         "en": "Disables the bounce effect when clicking outside of a `v-dialog`'s content when using the **persistent** prop.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -184,9 +156,7 @@ module.exports = {
       "source": "delayable",
       "description": {
         "en": "Milliseconds to wait before opening component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -196,9 +166,7 @@ module.exports = {
       "source": "activatable",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -208,9 +176,7 @@ module.exports = {
       "source": "activatable",
       "description": {
         "en": "Designates whether component should activate when its activator is hovered.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -220,9 +186,7 @@ module.exports = {
       "source": "v-dialog",
       "description": {
         "en": "Sets the transition origin on the element. You can find more information on the MDN documentation [for transition origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -232,9 +196,7 @@ module.exports = {
       "source": "overlayable",
       "description": {
         "en": "Sets the overlay color.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -247,9 +209,7 @@ module.exports = {
       "source": "overlayable",
       "description": {
         "en": "Sets the overlay opacity.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -259,9 +219,7 @@ module.exports = {
       "source": "v-dialog",
       "description": {
         "en": "Clicking outside of the element or pressing **esc** key will not deactivate it.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -271,9 +229,7 @@ module.exports = {
       "source": "v-dialog",
       "description": {
         "en": "Tab focus will return to the first child of the dialog by default. Disable this when using external tools that require focus such as TinyMCE or vue-clipboard.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -283,9 +239,7 @@ module.exports = {
       "source": "returnable",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -295,9 +249,7 @@ module.exports = {
       "source": "v-dialog",
       "description": {
         "en": "When set to true, expects a `v-card` and a `v-card-text` component with a designated height. For more information, check out the [scrollable example](/components/dialogs#scrollable).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -307,9 +259,7 @@ module.exports = {
       "source": "v-dialog",
       "description": {
         "en": "Sets the component transition. Can be one of the [built in transitions](/styles/transitions) or one your own.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -319,9 +269,7 @@ module.exports = {
       "source": "toggleable",
       "description": {
         "en": "Controls whether the component is visible or hidden.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -334,9 +282,7 @@ module.exports = {
       "source": "v-dialog",
       "description": {
         "en": "Sets the width for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -361,35 +307,20 @@ module.exports = {
       },
       "description": {
         "en": "When used, will activate the component when clicked (or hover for specific components). This manually stops the event propagation. Without this slot, if you open the component through its model, you will need to manually stop the event propagation",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
       "name": "default",
       "description": {
         "en": "The default Vue slot.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
   "events": [],
   "functions": [],
   "name": "v-bottom-sheet",
-  "sass": [
-    {
-      "name": "$bottom-sheet-inset-width",
-      "default": "70% !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    }
-  ],
+  "sass": [],
   "component": true
 }

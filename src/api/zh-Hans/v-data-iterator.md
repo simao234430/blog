@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-data-iterator" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-data-iterator" section="sass" />
-
 <backmatter />

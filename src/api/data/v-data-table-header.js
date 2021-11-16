@@ -7,9 +7,7 @@ module.exports = {
       "source": "v-data-table-header",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "source": "v-data-table-header",
       "description": {
         "en": "Toggles rendering of sort button",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -31,9 +27,7 @@ module.exports = {
       "source": "v-data-table-header",
       "description": {
         "en": "Indicates if all items in table are selected",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -43,9 +37,7 @@ module.exports = {
       "source": "v-data-table-header",
       "description": {
         "en": "Array of header items to display",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -55,9 +47,7 @@ module.exports = {
       "source": "v-data-table-header",
       "description": {
         "en": "Renders mobile view of headers",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -76,9 +66,7 @@ module.exports = {
       "source": "v-data-table-header",
       "description": {
         "en": "Options object. Identical to the one on `v-data-table`",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -88,9 +76,7 @@ module.exports = {
       "source": "v-data-table-header",
       "description": {
         "en": "Shows group by button",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -100,9 +86,7 @@ module.exports = {
       "source": "v-data-table-header",
       "description": {
         "en": "Toggles rendering of select-all checkbox",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -112,9 +96,7 @@ module.exports = {
       "source": "v-data-table-header",
       "description": {
         "en": "Indicates if one or more items in table are selected",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -124,9 +106,7 @@ module.exports = {
       "type": "string",
       "description": {
         "en": "Sets the label text used by the default sort-by selector when `v-data-table` is rendering the mobile view",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -136,9 +116,7 @@ module.exports = {
       "source": "v-data-table-header",
       "description": {
         "en": "Icon used for sort button",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],

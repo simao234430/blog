@@ -20,9 +20,11 @@ import {
 
 // Setup
 Vue.use(Router)
+ 
 
 export function createRouter (vuetify, store, i18n) {
   const loadedLocales = ['en','zh-CN']
+ 
   const router = new Router({
     mode: 'history',
     base: process.env.BASE_URL,
@@ -47,6 +49,7 @@ export function createRouter (vuetify, store, i18n) {
       // The previous one doesn't match if there's no slash after the language code
       redirect('/:locale(%s)'),
       redirect(),
+ 
     ],
   })
 

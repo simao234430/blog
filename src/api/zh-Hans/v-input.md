@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-input" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-input" section="sass" />
-
 <backmatter />

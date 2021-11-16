@@ -7,9 +7,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Applies the [align-items](https://developer.mozilla.org/en-US/docs/Web/CSS/align-items) css property. Available options are **start**, **center**, **end**, **baseline** and **stretch**.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Applies the [align-content](https://developer.mozilla.org/en-US/docs/Web/CSS/align-content) css property. Available options are **start**, **center**, **end**, **space-between**, **space-around** and **stretch**.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -31,9 +27,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Changes the **align-content** property on large and greater breakpoints.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -43,9 +37,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Changes the **align-content** property on medium and greater breakpoints.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -55,9 +47,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Changes the **align-content** property on small and greater breakpoints.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -67,9 +57,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Changes the **align-content** property on extra large and greater breakpoints.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -79,9 +67,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Changes the **align-items** property on large and greater breakpoints.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -91,9 +77,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Changes the **align-items** property on medium and greater breakpoints.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -103,9 +87,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Changes the **align-items** property on small and greater breakpoints.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -115,9 +97,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Changes the **align-items** property on extra large and greater breakpoints.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -127,9 +107,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Reduces the gutter between `v-col`s.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -139,9 +117,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Applies the [justify-content](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content) css property. Available options are **start**, **center**, **end**, **space-between** and **space-around**.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -151,9 +127,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Changes the **justify-content** property on large and greater breakpoints.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -163,9 +137,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Changes the **justify-content** property on medium and greater breakpoints.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -175,9 +147,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Changes the **justify-content** property on small and greater breakpoints.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -187,9 +157,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Changes the **justify-content** property on extra large and greater breakpoints.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -199,9 +167,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Removes the gutter between `v-col`s.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -211,9 +177,7 @@ module.exports = {
       "source": "v-row",
       "description": {
         "en": "Specify a custom tag used on the root element.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -223,9 +187,7 @@ module.exports = {
       "name": "default",
       "description": {
         "en": "The default Vue slot.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],

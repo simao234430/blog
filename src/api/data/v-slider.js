@@ -7,9 +7,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Appends an icon to the component, uses the same syntax as `v-icon`",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Changes the background-color of the input",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -31,9 +27,7 @@ module.exports = {
       "source": "colorable",
       "description": {
         "en": "Applies specified color to the control - it can be the name of material color (for example `success` or `purple`) or css color (`#033` or `rgba(255, 0, 0, 0.5)`). You can find list of built in classes on the [colors page](/styles/colors#material-colors).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -43,9 +37,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the dark theme variant to the component. This will default the components color to _white_ unless you've configured your [application theme](/customization/theme) to **dark** or if you are using the **color** prop on the component. You can find more information on the Material Design documentation for [dark themes](https://material.io/design/color/dark-theme.html).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -55,9 +47,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Reduces the input height",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -67,9 +57,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Disable the input",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -79,9 +67,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Puts the input in a manual error state",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -94,9 +80,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "The total number of errors that should display at once",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -109,9 +93,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Puts the input in an error state and passes through custom error messages. Will be combined with any validations that occur from the **rules** prop. This field will not trigger validation",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -124,9 +106,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Sets the height of the input",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -139,9 +119,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Hides hint and validation errors. When set to `auto` messages will be rendered only if there's a message (hint, error message, counter value etc) to display",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -151,9 +129,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Hint text",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -163,9 +139,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Sets the DOM id on the component",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -175,9 +149,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "Reverse the label position. Works with **rtl**.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -186,9 +158,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Sets input label",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -198,9 +168,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the light theme variant to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -213,9 +181,7 @@ module.exports = {
       "source": "loadable",
       "description": {
         "en": "Specifies the height of the loader",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -228,9 +194,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Displays linear progress bar. Can either be a String which specifies which color is applied to the progress bar (any material color or theme color - **primary**, **secondary**, **success**, **info**, **warning**, **error**) or a Boolean which uses the component **color** (set by color prop - if it's supported by the component) or the primary color",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -243,9 +207,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "Sets the maximum allowed value",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -258,9 +220,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Displays a list of messages or message if using a string",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -273,9 +233,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "Sets the minimum allowed value",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -285,9 +243,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Forces hint to always be visible",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -297,9 +253,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Prepends an icon to the component, uses the same syntax as `v-icon`",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -309,9 +263,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Puts input in readonly state",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -321,9 +273,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Accepts a mixed array of types `function`, `boolean` and `string`. Functions pass an input value as an argument and must return either `true` / `false` or a `string` containing an error message. The input field will enter an error state if a function returns (or any value in the array contains) `false` or is a `string`",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -336,9 +286,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "If greater than 0, sets step interval for ticks",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -348,9 +296,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Puts the input in a manual success state",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -363,9 +309,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Puts the input in a success state and passes through custom success messages.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -375,9 +319,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "Sets the thumb and thumb label color",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -390,9 +332,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "Show thumb label. If `true` it shows label when using slider. If set to `'always'` it always shows label.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -405,9 +345,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "Controls the size of the thumb label.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -417,9 +355,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "When provided with Array<string>, will attempt to map the labels to each step in index order",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -432,9 +368,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "Controls the size of **ticks**",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -447,9 +381,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "Show track ticks. If `true` it shows ticks when using slider. If set to `'always'` it always shows ticks.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -459,9 +391,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "Sets the track's color",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -471,9 +401,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "Sets the track's fill color",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -483,9 +411,7 @@ module.exports = {
       "source": "validatable",
       "description": {
         "en": "Delays validation until blur event",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -494,9 +420,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "The input's value",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -506,9 +430,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "Changes slider direction to vertical",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -521,9 +443,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Adds an item inside the input and after input content",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -531,9 +451,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "The default Vue slot.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -541,9 +459,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Replaces the default label",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -555,9 +471,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -565,9 +479,7 @@ module.exports = {
       "source": "v-input",
       "description": {
         "en": "Adds an item outside the input and before input content",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -575,9 +487,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "Slot for custom progress linear (displayed when **loading** prop is not equal to Boolean False)",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -588,9 +498,7 @@ module.exports = {
       "source": "v-slider",
       "description": {
         "en": "Replaces the content inside the thumb label",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -601,9 +509,7 @@ module.exports = {
       "value": "number",
       "description": {
         "en": "Emitted when the input is changed by user interaction",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -612,9 +518,7 @@ module.exports = {
       "value": "MouseEvent",
       "description": {
         "en": "Emitted when input is clicked",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -623,9 +527,7 @@ module.exports = {
       "value": "Event",
       "description": {
         "en": "Emitted when appended icon is clicked",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -634,9 +536,7 @@ module.exports = {
       "value": "Event",
       "description": {
         "en": "Emitted when prepended icon is clicked",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -645,9 +545,7 @@ module.exports = {
       "value": "number",
       "description": {
         "en": "Slider value emitted at the end of slider movement",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -656,9 +554,7 @@ module.exports = {
       "value": "number",
       "description": {
         "en": "The updated bound model",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -667,9 +563,7 @@ module.exports = {
       "value": "MouseEvent",
       "description": {
         "en": "Emitted when click is pressed",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -678,9 +572,7 @@ module.exports = {
       "value": "MouseEvent",
       "description": {
         "en": "Emitted when click is released",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -689,9 +581,7 @@ module.exports = {
       "value": "number",
       "description": {
         "en": "Slider value emitted at start of slider movement",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -700,255 +590,12 @@ module.exports = {
       "value": "boolean",
       "description": {
         "en": "The `error.sync` event",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
   "functions": [],
   "name": "v-slider",
-  "sass": [
-    {
-      "name": "$chip-group-no-color-opacity",
-      "default": ".22 !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$chip-group-opacity",
-      "default": ".32 !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-horizontal-left",
-      "default": "8px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-horizontal-min-height",
-      "default": "32px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-horizontal-right",
-      "default": "8px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-label-margin-end",
-      "default": "12px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-label-margin-start",
-      "default": "12px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-state-track-background-opacity",
-      "default": "0.4 !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-thumb-before-opacity",
-      "default": "0.3 !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-thumb-border-radius",
-      "default": "50% !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-thumb-focused-size-increase",
-      "default": "24px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-thumb-label-font-size",
-      "default": "map-deep-get($headings, 'caption', 'size') !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-thumb-label-height",
-      "default": "32px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-thumb-label-transition",
-      "default": ".3s map-get($transition, 'fast-in-fast-out') !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-thumb-label-width",
-      "default": "32px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-thumb-size",
-      "default": "12px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-thumb-touch-size",
-      "default": "42px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-tick-border-radius",
-      "default": "0 !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-track-border-radius",
-      "default": "0 !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-track-width",
-      "default": "2px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-transition",
-      "default": ".3s map-get($transition, 'swing') !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-vertical-margin-bottom",
-      "default": "12px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-vertical-margin-top",
-      "default": "12px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$slider-vertical-min-height",
-      "default": "150px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    }
-  ],
+  "sass": [],
   "component": true
 }

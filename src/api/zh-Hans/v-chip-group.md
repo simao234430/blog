@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-chip-group" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-chip-group" section="sass" />
-
 <backmatter />

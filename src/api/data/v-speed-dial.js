@@ -7,9 +7,7 @@ module.exports = {
       "source": "positionable",
       "description": {
         "en": "Applies **position: absolute** to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "source": "positionable",
       "description": {
         "en": "Aligns the component towards the bottom.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -31,9 +27,7 @@ module.exports = {
       "source": "v-speed-dial",
       "description": {
         "en": "Direction in which speed-dial content will show. Possible values are `top`, `bottom`, `left`, `right`.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -43,9 +37,7 @@ module.exports = {
       "source": "positionable",
       "description": {
         "en": "Applies **position: fixed** to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -55,9 +47,7 @@ module.exports = {
       "source": "positionable",
       "description": {
         "en": "Aligns the component towards the left.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -67,9 +57,7 @@ module.exports = {
       "source": "transitionable",
       "description": {
         "en": "Sets the transition mode (does not apply to transition-group). You can find more information on the Vue documentation [for transition modes](https://vuejs.org/v2/api/#transition).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -79,9 +67,7 @@ module.exports = {
       "source": "v-speed-dial",
       "description": {
         "en": "Opens speed-dial on hover",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -91,9 +77,7 @@ module.exports = {
       "source": "transitionable",
       "description": {
         "en": "Sets the transition origin on the element. You can find more information on the MDN documentation [for transition origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -103,9 +87,7 @@ module.exports = {
       "source": "positionable",
       "description": {
         "en": "Aligns the component towards the right.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -115,9 +97,7 @@ module.exports = {
       "source": "positionable",
       "description": {
         "en": "Aligns the content towards the top.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -127,9 +107,7 @@ module.exports = {
       "source": "transitionable",
       "description": {
         "en": "Sets the component transition. Can be one of the [built in transitions](/styles/transitions) or one your own.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -139,9 +117,7 @@ module.exports = {
       "source": "toggleable",
       "description": {
         "en": "Controls whether the component is visible or hidden.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -155,55 +131,20 @@ module.exports = {
       "name": "activator",
       "description": {
         "en": "When used, will activate the component when clicked (or hover for specific components). This manually stops the event propagation. Without this slot, if you open the component through its model, you will need to manually stop the event propagation",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
       "name": "default",
       "description": {
         "en": "The default Vue slot.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
   "events": [],
   "functions": [],
   "name": "v-speed-dial",
-  "sass": [
-    {
-      "name": "$speed-dial-padding",
-      "default": "16px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$speed-dial-button-margin",
-      "default": "6px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$speed-dial-z-index",
-      "default": "1 !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    }
-  ],
+  "sass": [],
   "component": true
 }

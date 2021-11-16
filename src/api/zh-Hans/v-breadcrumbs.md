@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-breadcrumbs" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-breadcrumbs" section="sass" />
-
 <backmatter />

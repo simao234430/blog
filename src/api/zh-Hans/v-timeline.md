@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-timeline" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-timeline" section="sass" />
-
 <backmatter />

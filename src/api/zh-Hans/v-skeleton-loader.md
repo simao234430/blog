@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-skeleton-loader" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-skeleton-loader" section="sass" />
-
 <backmatter />

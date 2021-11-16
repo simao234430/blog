@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-file-input" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-file-input" section="sass" />
-
 <backmatter />

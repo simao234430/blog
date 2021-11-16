@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-pagination" section="events" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-pagination" section="sass" />
-
 <backmatter />

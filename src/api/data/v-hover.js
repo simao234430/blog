@@ -10,9 +10,7 @@ module.exports = {
       "source": "delayable",
       "description": {
         "en": "Milliseconds to wait before closing component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -22,9 +20,7 @@ module.exports = {
       "source": "v-hover",
       "description": {
         "en": "Turns off hover functionality",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -37,9 +33,7 @@ module.exports = {
       "source": "delayable",
       "description": {
         "en": "Milliseconds to wait before opening component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -49,9 +43,7 @@ module.exports = {
       "source": "toggleable",
       "description": {
         "en": "Controls whether the component is visible or hidden.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -67,9 +59,7 @@ module.exports = {
       },
       "description": {
         "en": "The default Vue slot.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],

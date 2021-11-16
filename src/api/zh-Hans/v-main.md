@@ -17,8 +17,4 @@ meta:
 
 <api-section name="v-main" section="props" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-main" section="sass" />
-
 <backmatter />

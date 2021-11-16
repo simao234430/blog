@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-text-field" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-text-field" section="sass" />
-
 <backmatter />

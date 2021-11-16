@@ -7,9 +7,7 @@ module.exports = {
       ],
       "description": {
         "en": "The function to invoke on window resize",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -22,9 +20,7 @@ module.exports = {
       ],
       "description": {
         "en": "Will **not** automatically invoke the provided callback on bind.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],

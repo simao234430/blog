@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-expansion-panel" section="events" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-expansion-panel" section="sass" />
-
 <backmatter />

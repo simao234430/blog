@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-badge" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-badge" section="sass" />
-
 <backmatter />

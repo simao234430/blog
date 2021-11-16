@@ -16,9 +16,7 @@ module.exports = {
       },
       "description": {
         "en": "Object that can include a number of callbacks corresponding to the touch event. See the example for what callbacks are available. Pairing x-axis and y-axis callbacks is not recommended at this time",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],

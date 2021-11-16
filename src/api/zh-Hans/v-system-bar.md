@@ -17,8 +17,4 @@ meta:
 
 <api-section name="v-system-bar" section="props" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-system-bar" section="sass" />
-
 <backmatter />

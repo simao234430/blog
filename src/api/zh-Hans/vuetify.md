@@ -17,8 +17,4 @@ meta:
 
 <api-section name="$vuetify" section="functions" />
 
-## SASS Variables {#sass}
-
-<api-section name="$vuetify" section="sass" />
-
 <backmatter />

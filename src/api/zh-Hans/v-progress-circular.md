@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-progress-circular" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-progress-circular" section="sass" />
-
 <backmatter />

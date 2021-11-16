@@ -10,9 +10,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the height for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -25,9 +23,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the maximum height for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -40,9 +36,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the maximum width for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -55,9 +49,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the minimum height for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -70,9 +62,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the minimum width for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -82,9 +72,7 @@ module.exports = {
       "source": "v-lazy",
       "description": {
         "en": "Options that are passed to the [Intersection observer](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) constructor.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -94,9 +82,7 @@ module.exports = {
       "source": "v-lazy",
       "description": {
         "en": "Specify a custom tag used on the root element.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -106,9 +92,7 @@ module.exports = {
       "source": "v-lazy",
       "description": {
         "en": "Sets the component transition. Can be one of the [built in transitions](/styles/transitions) or one your own.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -118,9 +102,7 @@ module.exports = {
       "source": "toggleable",
       "description": {
         "en": "Controls whether the component is visible or hidden.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -133,9 +115,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the width for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -148,9 +128,7 @@ module.exports = {
       "name": "default",
       "description": {
         "en": "The default Vue slot.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],

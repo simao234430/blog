@@ -29,8 +29,4 @@ meta:
 
 <api-section name="v-calendar" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-calendar" section="sass" />
-
 <backmatter />

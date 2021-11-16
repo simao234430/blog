@@ -10,9 +10,7 @@ module.exports = {
       "source": "v-color-picker",
       "description": {
         "en": "Height of canvas",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -22,9 +20,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the dark theme variant to the component. You can find more information on the Material Design documentation for [dark themes](https://material.io/design/color/dark-theme.html).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -34,9 +30,7 @@ module.exports = {
       "source": "v-color-picker",
       "description": {
         "en": "Disables picker",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -49,9 +43,7 @@ module.exports = {
       "source": "v-color-picker",
       "description": {
         "en": "Changes the size of the selection dot on the canvas",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -64,9 +56,7 @@ module.exports = {
       "source": "elevatable",
       "description": {
         "en": "Designates an elevation applied to the component between 0 and 24. You can find more information on the [elevation page](/styles/elevation).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -76,9 +66,7 @@ module.exports = {
       "source": "v-color-picker",
       "description": {
         "en": "Removes elevation",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -88,9 +76,7 @@ module.exports = {
       "source": "v-color-picker",
       "description": {
         "en": "Hides canvas",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -100,9 +86,7 @@ module.exports = {
       "source": "v-color-picker",
       "description": {
         "en": "Hides inputs",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -112,9 +96,7 @@ module.exports = {
       "source": "v-color-picker",
       "description": {
         "en": "Hides mode switch",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -124,9 +106,7 @@ module.exports = {
       "source": "v-color-picker",
       "description": {
         "en": "Hides sliders",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -136,9 +116,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the light theme variant to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -148,9 +126,7 @@ module.exports = {
       "source": "v-color-picker",
       "description": {
         "en": "Sets mode of inputs. Available modes are 'rgba', 'hsla', and 'hexa'. Can be synced with the `.sync` modifier.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -160,9 +136,7 @@ module.exports = {
       "source": "v-color-picker",
       "description": {
         "en": "Displays color swatches",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -172,9 +146,7 @@ module.exports = {
       "source": "v-color-picker",
       "description": {
         "en": "Sets the available color swatches to select from - This prop only accepts rgba hex strings",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -187,9 +159,7 @@ module.exports = {
       "source": "v-color-picker",
       "description": {
         "en": "Sets the maximum height of the swatches section",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -202,9 +172,7 @@ module.exports = {
       "source": "v-color-picker",
       "description": {
         "en": "Current color. This can be either a string representing a hex color, or an object representing a RGBA, HSLA, or HSVA value",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -217,9 +185,7 @@ module.exports = {
       "source": "v-color-picker",
       "description": {
         "en": "Sets the width of the color picker",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -234,9 +200,7 @@ module.exports = {
       "value": "string | object",
       "description": {
         "en": "Selected color. Depending on what you passed to the `value` prop this is either a string or an object",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -267,9 +231,7 @@ module.exports = {
       },
       "description": {
         "en": "Selected color. This is the internal representation of the color, containing all values.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -277,235 +239,12 @@ module.exports = {
       "value": "string",
       "description": {
         "en": "Selected mode",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
   "functions": [],
   "name": "v-color-picker",
-  "sass": [
-    {
-      "name": "$color-picker-border-radius",
-      "default": "$border-radius-root !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-checkerboard",
-      "default": "url(data:image/png;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-swatch-color-width",
-      "default": "45px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-swatch-color-height",
-      "default": "18px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-swatch-color-margin",
-      "default": "2px 4px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-swatch-color-border-radius",
-      "default": "2px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-swatch-margin-bottom",
-      "default": "10px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-swatches-border-radius",
-      "default": "8px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-canvas-dot-size",
-      "default": "15px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-canvas-dot-box-shadow",
-      "default": "0px 0px 0px 1.5px rgba(255, 255, 255, 1), inset 0px 0px 1px 1.5px rgba(0, 0, 0, 0.3) !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-canvas-dot-disabled-box-shadow",
-      "default": "0px 0px 0px 1.5px rgba(255, 255, 255, 0.7), inset 0px 0px 1px 1.5px rgba(0, 0, 0, 0.3) !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-controls-padding",
-      "default": "16px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-edit-margin-top",
-      "default": "24px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-input-height",
-      "default": "28px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-input-font-size",
-      "default": "0.75rem !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-input-margin",
-      "default": "8px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-input-margin-bottom",
-      "default": "8px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-slider-height",
-      "default": "10px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-slider-border-radius",
-      "default": "$color-picker-slider-height / 2 !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-preview-dot-size",
-      "default": "30px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-preview-dot-margin",
-      "default": "24px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$color-picker-hue-margin-bottom",
-      "default": "24px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    }
-  ],
+  "sass": [],
   "component": true
 }

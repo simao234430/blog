@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-img" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-img" section="sass" />
-
 <backmatter />

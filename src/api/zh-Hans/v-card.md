@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-card" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-card" section="sass" />
-
 <backmatter />

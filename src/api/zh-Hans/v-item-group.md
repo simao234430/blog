@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-item-group" section="events" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-item-group" section="sass" />
-
 <backmatter />

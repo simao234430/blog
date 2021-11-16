@@ -7,9 +7,7 @@ module.exports = {
       "source": "positionable",
       "description": {
         "en": "Applies **position: absolute** to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -19,9 +17,7 @@ module.exports = {
       "source": "v-bottom-navigation",
       "description": {
         "en": "The class applied to a [v-btn](/components/buttons) when activated.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -31,9 +27,7 @@ module.exports = {
       "source": "applicationable",
       "description": {
         "en": "Designates the component as part of the application layout. Used for dynamically adjusting content sizing. Components using this prop should reside **outside** of `v-main` component to function properly. You can find more information about layouts on the [application page](/components/application). **Note:** this prop automatically applies **position: fixed** to the layout element. You can overwrite this functionality by using the `absolute` prop",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -43,9 +37,7 @@ module.exports = {
       "source": "v-bottom-navigation",
       "description": {
         "en": "Changes the background-color for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -55,9 +47,7 @@ module.exports = {
       "source": "colorable",
       "description": {
         "en": "Applies specified color to the control - it can be the name of material color (for example `success` or `purple`) or css color (`#033` or `rgba(255, 0, 0, 0.5)`). You can find list of built in classes on the [colors page](/styles/colors#material-colors).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -67,9 +57,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the dark theme variant to the component. You can find more information on the Material Design documentation for [dark themes](https://material.io/design/color/dark-theme.html).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -79,9 +67,7 @@ module.exports = {
       "source": "positionable",
       "description": {
         "en": "Applies **position: fixed** to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -91,9 +77,7 @@ module.exports = {
       "source": "v-bottom-navigation",
       "description": {
         "en": "Force [v-btn](/components/buttons)s to take up all available space.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -106,9 +90,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the height for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -118,9 +100,7 @@ module.exports = {
       "source": "v-bottom-navigation",
       "description": {
         "en": "Will transition the navigation off screen when scrolling up.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -130,9 +110,7 @@ module.exports = {
       "source": "v-bottom-navigation",
       "description": {
         "en": "Uses an alternative horizontal styling for [v-btn](/components/buttons).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -142,9 +120,7 @@ module.exports = {
       "source": "toggleable",
       "description": {
         "en": "Controls whether the component is visible or hidden. Supports the **.sync** modifier.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -154,9 +130,7 @@ module.exports = {
       "source": "themeable",
       "description": {
         "en": "Applies the light theme variant to the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -166,9 +140,7 @@ module.exports = {
       "source": "v-bottom-navigation",
       "description": {
         "en": "Forces a value to always be selected (if available).",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -181,9 +153,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the maximum height for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -196,9 +166,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the maximum width for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -211,9 +179,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the minimum height for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -226,9 +192,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the minimum width for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -238,9 +202,7 @@ module.exports = {
       "source": "scrollable",
       "description": {
         "en": "Designates the element to target for scrolling events. Uses `window` by default.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -253,9 +215,7 @@ module.exports = {
       "source": "scrollable",
       "description": {
         "en": "The amount of scroll distance down before **hide-on-scroll** activates.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -265,9 +225,7 @@ module.exports = {
       "source": "v-bottom-navigation",
       "description": {
         "en": "Hides text of [v-btn](/components/buttons)s when they are not active.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -277,9 +235,7 @@ module.exports = {
       "source": "v-bottom-navigation",
       "description": {
         "en": "Specify a custom tag used on the root element.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -289,9 +245,7 @@ module.exports = {
       "source": "proxyable",
       "description": {
         "en": "Holds the value of the currently active [v-btn](/components/buttons). If the button has no value supplied, its index will be used instead..",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -304,9 +258,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the width for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -325,9 +277,7 @@ module.exports = {
       "name": "default",
       "description": {
         "en": "The default Vue slot.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -337,9 +287,7 @@ module.exports = {
       "value": "any",
       "description": {
         "en": "The value of currently selected button. If no value is assigned, will be the current index of the button.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -347,65 +295,12 @@ module.exports = {
       "value": "string | number",
       "description": {
         "en": "The event used for `input-value.sync`.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
   "functions": [],
   "name": "v-bottom-navigation",
-  "sass": [
-    {
-      "name": "$bottom-nav-btn-font-size",
-      "default": "map-deep-get($headings, 'caption', 'size') !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$bottom-nav-btn-min-width",
-      "default": "80px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$bottom-nav-btn-max-width",
-      "default": "168px !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$bottom-nav-shift-btn-top",
-      "default": "calc(100% - 12px) !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    },
-    {
-      "name": "$bottom-nav-shift-btn-active-top",
-      "default": "calc(100% - 22px) !default;",
-      "description": {
-        "en": "",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
-      }
-    }
-  ],
+  "sass": [],
   "component": true
 }

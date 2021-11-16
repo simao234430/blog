@@ -21,8 +21,4 @@ meta:
 
 <api-section name="v-speed-dial" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-speed-dial" section="sass" />
-
 <backmatter />

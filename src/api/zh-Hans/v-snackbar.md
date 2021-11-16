@@ -25,8 +25,4 @@ meta:
 
 <api-section name="v-snackbar" section="slots" />
 
-## SASS Variables {#sass}
-
-<api-section name="v-snackbar" section="sass" />
-
 <backmatter />

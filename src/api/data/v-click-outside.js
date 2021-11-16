@@ -13,9 +13,7 @@ module.exports = {
       },
       "description": {
         "en": "A callback or options object.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],

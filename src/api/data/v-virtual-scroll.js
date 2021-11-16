@@ -10,9 +10,7 @@ module.exports = {
       "source": "v-virtual-scroll",
       "description": {
         "en": "The number of items **outside** the user view that are rendered (even if they are **not** viewable); to help prevent empty white space when scrolling *fast*.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -25,9 +23,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Height of the component as a css value",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -40,9 +36,7 @@ module.exports = {
       "source": "v-virtual-scroll",
       "description": {
         "en": "Height in pixels of the items to display",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -52,9 +46,7 @@ module.exports = {
       "source": "v-virtual-scroll",
       "description": {
         "en": "The array of items to display",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -67,9 +59,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the maximum height for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -82,9 +72,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the maximum width for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -97,9 +85,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the minimum height for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -112,9 +98,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the minimum width for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     },
     {
@@ -127,9 +111,7 @@ module.exports = {
       "source": "measurable",
       "description": {
         "en": "Sets the width for the component.",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
@@ -143,9 +125,7 @@ module.exports = {
       },
       "description": {
         "en": "Default slot to customize items appearance",
-        "ja": "",
-        "zh-Hans": "",
-        "eo-UY": ""
+        "zh-Hans": ""
       }
     }
   ],
