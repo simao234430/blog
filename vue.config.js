@@ -13,16 +13,17 @@ module.exports = {
   chainWebpack: config => {
     config.resolve.alias // 添加别名
       .set("@", resolve("src"))
+      .set("@examples", resolve("src/examples"))
       .set("@api-generator", resolve("src/api-generator"))
       .set("@docs", resolve("src/docs"))
     config
     .plugin('api-plugin')
     .use(path.resolve('./build/api-plugin.js'))
 
-    config.optimization.minimize(true)// 开启压缩js代码
-    config.optimization.splitChunks({ // 开启代码分割
-      chunks: 'all'
-    })
+    // config.optimization.minimize(true)// 开启压缩js代码
+    // config.optimization.splitChunks({ // 开启代码分割
+    //   chunks: 'all'
+    // })
     config
     .plugin('pages-plugin')
     .use(path.resolve('./build/pages-plugin.js'))

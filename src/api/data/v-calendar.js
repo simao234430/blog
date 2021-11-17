@@ -536,7 +536,7 @@ module.exports = {
         "number",
         "date"
       ],
-      "default": "2021-11-16",
+      "default": "2021-11-17",
       "source": "calendar-base",
       "description": {
         "en": "The starting date on the calendar (inclusive) in the format of `YYYY-MM-DD`. This may be ignored depending on the `type` of the calendar.",
